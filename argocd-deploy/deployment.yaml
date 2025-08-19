@@ -18,4 +18,4 @@ spec:
         - name: myapp-v1
           image:  kundhana/argocd:v1
           ports:
-            - containerPort: 8080  # Port 80
+            - containerPort: 8080  # Port 8080
